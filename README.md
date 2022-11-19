@@ -2,7 +2,7 @@
 
 I'm Cleiviane (ela/she/her). I'm Brazilian and live in Santos/SP.
 
-I'm a Senior Software Engineer at [OmbuLabs.com](http://www.ombulabs.com), working mostly with my beloved Ruby on Rails ❤️
+I'm a Engineering Manager at [OmbuLabs.com](http://www.ombulabs.com), where we work mostly with my beloved Ruby on Rails ❤️
 
 I'm also an entrepreneur and run the startup [OPSICO](http://www.opsicoapp.com) as Co-founder and CTO.
 
