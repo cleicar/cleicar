@@ -8,6 +8,3 @@ I'm also an entrepreneur and run the startup [OPSICO](http://www.opsicoapp.com) 
 
 You can reach out to me at [Linkedin](https://www.linkedin.com/in/cleiviane/en) or [Twitter](https://twitter.com/cleicar_rb).
 
-#### About me
-
-Please visit my online resume at https://cleicar.github.io/about.me/
