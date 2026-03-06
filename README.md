@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Cleiviane (ela/she/her). I'm Brazilian and live in Santos/SP.
+I'm Cleiviane (ela/she/her). I'm Brazilian and live in São Paulo/SP.
 
 I'm a Senior Software Engineer at [Power HRG](https://www.powerhrg.com), where we work mostly with my beloved Ruby on Rails ❤️
 
